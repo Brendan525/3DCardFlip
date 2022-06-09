@@ -77,7 +77,3 @@ body {
 .card:hover > .back {
     transform: perspective(600px) rotateY(0deg);
 }
-
-.test {
-    color: black;
-}
